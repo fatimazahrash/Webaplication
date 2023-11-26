@@ -40,7 +40,6 @@ JavaServer Faces (JSF)
 Hibernate
 PrimeFaces
 Java EE
-## Screenshots
 
 
 
